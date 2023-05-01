@@ -37,7 +37,7 @@ I am a web developper from morocco.
 	<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" **alt="c" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" **alt="jquery" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" **alt="php" width="40" height="40"/>&nbsp;
@@ -57,7 +57,7 @@ I am a web developper from morocco.
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" **alt="gcc" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40" style="background-color: white;"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40" bgcolor="white"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="google" **alt="google" width="40" height="40"/>&nbsp;
 </div>
 
@@ -65,7 +65,7 @@ I am a web developper from morocco.
 	<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" **alt="illustrator" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" **alt="blender" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="gimp" **alt="gimp" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop" **alt="photoshop" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" **alt="photoshop" width="40" height="40"/>&nbsp;
 </div>
 
 <div>
