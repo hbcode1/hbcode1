@@ -69,4 +69,6 @@ I am a web developper from morocco.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hbcode1&exclude_days=Sun&card_width=830)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbcode1&hide_progress=true)](https://github.com/hbcode1/github-readme-stats)
+![hbcode1's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbcode1&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbcode1&layout=compact)](https://github.com/hbcode1/github-readme-stats)
