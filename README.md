@@ -26,7 +26,7 @@ I am a web developper from morocco.
 - ⚡ Fun fact: C is fun.-->
 - 🌱 I’m currently a software enginner student at ALX program.
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-@elhoucine-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elhoucine-bh) [![twitter Badge](https://img.shields.io/badge/-@hocinebaha20-blue?style=flat&logo=Linkedin&logoColor=white)](https://twitter.com/hocinbaha20)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-@elhoucine-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elhoucine-bh) [![twitter Badge](https://img.shields.io/badge/-@hocinebaha20-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/hocinbaha20)
 
 
 ---
@@ -42,6 +42,33 @@ I am a web developper from morocco.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="blender" **alt="blender" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angularjs" **alt="angularjs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" **alt="bootstrap" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" **alt="c" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" **alt="css3" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" **alt="gcc" width="40" height="40"/>
+</div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="gcc" **alt="gcc" width="40" height="40"/>
+</div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gimp" **alt="gimp" width="40" height="40"/>
+</div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40"/>
+</div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="google" **alt="google" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" **alt="illustrator" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" **alt="jquery" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop" **alt="photoshop" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" **alt="php" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" **alt="sass" width="40" height="40"/>
+</div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" **alt="ubuntu" width="40" height="40"/>
+</div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" **alt="vim" width="40" height="40"/>
+</div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
 </div>
 
 ---
