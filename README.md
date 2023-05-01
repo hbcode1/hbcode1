@@ -67,8 +67,6 @@ I am a web developper from morocco.
 
 ### :fire: Statistics :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hbcode1&exclude_days=Sun)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hbcode1&exclude_days=Sun&card_width=830)](https://git.io/streak-stats)
 
-### :language: Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbcode1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
