@@ -31,7 +31,7 @@ I am a web developper from morocco.
 
 ---
 
-### : hammer_and_wrench : Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -66,3 +66,9 @@ I am a web developper from morocco.
 ---
 
 ### :fire: Statistics :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hbcode1&exclude_days=Sun)](https://git.io/streak-stats)
+
+### :language: Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
