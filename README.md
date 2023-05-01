@@ -55,9 +55,9 @@ I am a web developper from morocco.
 </div>
 
 <div>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40" style="background-color: white;"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" **alt="gcc" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40" style="background-color: white;"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="google" **alt="google" width="40" height="40"/>&nbsp;
 </div>
 
