@@ -43,7 +43,7 @@ I am a web developper from morocco.
 	<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" **alt="php" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="40" height="40"/>&nbsp;
 </div>
-
+<br/>
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -53,25 +53,26 @@ I am a web developper from morocco.
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" **alt="css3" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" **alt="sass" width="40" height="40"/>&nbsp;
 </div>
-
+<br/>
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" **alt="gcc" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40" bgcolor="white"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="google" **alt="google" width="40" height="40"/>&nbsp;
 </div>
-
+<br/>
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" **alt="illustrator" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" **alt="blender" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="gimp" **alt="gimp" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" **alt="photoshop" width="40" height="40"/>&nbsp;
 </div>
-
+<br/>
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" **alt="vim" width="40" height="40"/>&nbsp;
 </div>
+<br/>
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" **alt="ubuntu" width="40" height="40"/>&nbsp;
@@ -82,8 +83,8 @@ I am a web developper from morocco.
 
 ### :fire: Statistics :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hbcode1&exclude_days=Sun&card_width=830)](https://git.io/streak-stats)
-
-![hbcode1's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbcode1&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbcode1&layout=compact)](https://github.com/hbcode1/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hbcode1&exclude_days=Sun&card_width=540&hide_border=falsw)](https://git.io/streak-stats)
+<br/>
+![hbcode1's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbcode1&show_icons=true&theme=dark&hide_border=falsw&count_private=true)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbcode1&layout=compact&langs_count=10)](https://github.com/hbcode1/github-readme-stats)
