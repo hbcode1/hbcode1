@@ -95,7 +95,7 @@ I am a web developper from morocco.
 
 #### :writing_hand: Top Languages:
 
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=hbcode1&layout=compact&langs_count=10)](https://github.com/hbcode1/)
+![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=hbcode1&layout=compact&langs_count=10)
 <br/>
 
 #### :trophy: Github Profile Trophy: 
