@@ -87,4 +87,4 @@ I am a web developper from morocco.
 <br/>
 ![hbcode1's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbcode1&show_icons=true&theme=dark&hide_border=falsw&count_private=true)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbcode1&layout=compact&langs_count=10)](https://github.com/hbcode1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbcode1&layout=compact&langs_count=10)](https://github.com/hbcode1/)
