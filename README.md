@@ -85,7 +85,7 @@ I am a web developper from morocco.
 
 #### :fire: Github Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hbcode1&exclude_days=Sun&card_width=540&hide_border=falsw)](https://github.com/hbcode1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hbcode1&exclude_days=Sun&card_width=540&hide_border=falsw)
 <br/>
 
 #### :chart_with_upwards_trend: GitHub Stats:
