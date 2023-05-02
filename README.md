@@ -90,7 +90,7 @@ I am a web developper from morocco.
 
 #### :chart_with_upwards_trend: GitHub Stats:
 
-![hbcode1's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=hbcode1&show_icons=true&theme=dark&hide_border=falsw&count_private=true)
+![Hbcode1's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbcode1&show_icons=true&theme=dark)
 <br/>
 
 #### :writing_hand: Top Languages:
