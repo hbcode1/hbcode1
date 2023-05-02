@@ -90,12 +90,12 @@ I am a web developper from morocco.
 
 #### :chart_with_upwards_trend: GitHub Stats:
 
-![hbcode1's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbcode1&show_icons=true&theme=dark&hide_border=falsw&count_private=true)
+![hbcode1's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=hbcode1&show_icons=true&theme=dark&hide_border=falsw&count_private=true)
 <br/>
 
 #### :writing_hand: Top Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbcode1&layout=compact&langs_count=10)](https://github.com/hbcode1/)
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=hbcode1&layout=compact&langs_count=10)](https://github.com/hbcode1/)
 <br/>
 
 #### :trophy: Github Profile Trophy: 
