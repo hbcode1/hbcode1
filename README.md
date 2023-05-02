@@ -83,8 +83,19 @@ I am a web developper from morocco.
 
 ### :fire: Statistics :
 
+#### Github Streak
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hbcode1&exclude_days=Sun&card_width=540&hide_border=falsw)](https://github.com/hbcode1)
 <br/>
+
+#### hbcode1's GitHub stats
+
 [![hbcode1's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbcode1&show_icons=true&theme=dark&hide_border=falsw&count_private=true)](https://github.com/hbcode1)
 <br/>
+
+#### Top languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbcode1&layout=compact&langs_count=10)](https://github.com/hbcode1/)
+
+#### 🏆 Github Profile Trophy: 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=hbcode1&row=1)](https://github.com/hbcode1)
