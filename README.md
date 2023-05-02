@@ -81,9 +81,9 @@ I am a web developper from morocco.
 
 ---
 
-### :fire: Statistics :
+### :bar_chart: Statistics :
 
-#### Github Streak
+#### :fire: Github Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hbcode1&exclude_days=Sun&card_width=540&hide_border=falsw)](https://github.com/hbcode1)
 <br/>
