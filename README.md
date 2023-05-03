@@ -17,7 +17,7 @@
 
 <img src = "https://komarev.com/ghpvc/?username=hbcode1"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hbcode1&theme=dark&show_icons=true&count_private=true&hide_title=true&hide=stars&line_height=28" width = "45%" align="right" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hbcode1&theme=dark&show_icons=true&count_private=true&hide_title=true&hide=stars&line_height=28" align="right" alt="stats"/>
 
 ### :man_technologist: About me :
 
@@ -88,8 +88,8 @@ I am a web developper from morocco.
 	<summary>
 	<h3>:bar_chart: Statistics</h3>
 	</summary>
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=hbcode1&exclude_days=Sun&card_width=540&hide_border=falsw&theme=dark"  align = "left" width = "45%" height = "210px"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbcode1&layout=compact&langs_count=8&theme=dark"  align = "right" width = "45%" height = "210px"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=hbcode1&exclude_days=Sun&card_width=540&hide_border=falsw&theme=dark"  align = "left" height = "210px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbcode1&layout=compact&langs_count=8&theme=dark"  align = "right" height = "210px"/>
 </details>
 
 #### 
