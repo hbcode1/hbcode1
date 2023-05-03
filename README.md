@@ -15,22 +15,25 @@
 <div>
 	<img src = "https://komarev.com/ghpvc/?username=hbcode1" />
 	<h1> :man_technologist: About me </h1>
-	I am a web developper from morocco.
+	I am a web developper from morocco.	
 	<br/>
-	<img align = "right" src="https://github-readme-stats.vercel.app/api?username=hbcode1&theme=dark&show_icons=true&count_private=true&hide_title=true&hide=stars&line_height=28" alt="stats"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=hbcode1&theme=dark&show_icons=true&count_private=true&hide_title=true&hide=stars&line_height=28" align = "right" alt="stats"/>
 	<br/>
-	<ul>
+	<ul align = "left">
 		<li> 🌱 I’m currently a software enginner student at ALX program.</li>
 		<li> 👯 I’m looking to collaborate on open source projects.</li>
 		<li> 📫 How to reach me: 
+	<br/>
+	<br/>
 			<a href = "https://www.linkedin.com/in/elhoucine-bh">
-				<img src = "https://img.shields.io/badge/-@elhoucine-blue?style=flat&logo=Linkedin&logoColor=white" />
+				<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 			</a>
 			<a href = "https://twitter.com/hocinbaha20">
-				<img src = "https://img.shields.io/badge/-@hocinebaha20-blue?style=flat&logo=twitter&logoColor=white" />
+				<img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 			</a>
 		</li>
-	</ul>	
+	</ul>
+	
 </div>
 	<br/>
 	<br/>
