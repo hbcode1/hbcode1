@@ -17,7 +17,15 @@
 	<h1> :man_technologist: About me </h1>
 	I am a web developper from morocco.	
 	<br/>
-	<img src="https://github-readme-stats.vercel.app/api?username=hbcode1&theme=dark&show_icons=true&count_private=true&hide_title=true&hide=stars&line_height=28" align = "right" alt="stats"/>
+<picture>
+<source srcset="https://github-readme-stats.vercel.app/api?username=hbcode1&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source srcset="https://github-readme-stats.vercel.app/api?username=hbcode1&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=hbcode1&show_icons=true" />
+</picture>
 	<br/>
 	<ul align = "left">
 		<li> 🌱 I’m currently a software enginner student at ALX program.</li>
