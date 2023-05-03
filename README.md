@@ -1,5 +1,5 @@
 # Hi There 👋!, I'm Houcine
-<div id = "header" align = "center">
+<div align = "center">
 	<div id = "badges">
 		<a href = "https://www.linkedin.com/in/elhoucine-bh">
 			<img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
@@ -12,27 +12,28 @@
 
 ---
 
-
 <div>
-
-<img src = "https://komarev.com/ghpvc/?username=hbcode1"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=hbcode1&theme=dark&show_icons=true&count_private=true&hide_title=true&hide=stars&line_height=28" align="right" alt="stats"/>
-
-### :man_technologist: About me :
-
-<div id = "left" align = "left">
-I am a web developper from morocco.
-
-<!-- - 🔭 I’m currently working on ... 
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: C is fun.-->
-- 🌱 I’m currently a software enginner student at ALX program.
-- 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-@elhoucine-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elhoucine-bh) [![twitter Badge](https://img.shields.io/badge/-@hocinebaha20-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/hocinbaha20)
+	<img src = "https://komarev.com/ghpvc/?username=hbcode1" />
+	<h1> :man_technologist: About me </h1>
+	I am a web developper from morocco.
+	<br/>
+	<img align = "right" src="https://github-readme-stats.vercel.app/api?username=hbcode1&theme=dark&show_icons=true&count_private=true&hide_title=true&hide=stars&line_height=28" alt="stats"/>
+	<br/>
+	<ul>
+		<li> 🌱 I’m currently a software enginner student at ALX program.</li>
+		<li> 👯 I’m looking to collaborate on open source projects.</li>
+		<li> 📫 How to reach me: 
+			<a href = "https://www.linkedin.com/in/elhoucine-bh">
+				<img src = "https://img.shields.io/badge/-@elhoucine-blue?style=flat&logo=Linkedin&logoColor=white" />
+			</a>
+			<a href = "https://twitter.com/hocinbaha20">
+				<img src = "https://img.shields.io/badge/-@hocinebaha20-blue?style=flat&logo=twitter&logoColor=white" />
+			</a>
+		</li>
+	</ul>	
 </div>
-</div>
-
+	<br/>
+	<br/>
 
 ---
 
