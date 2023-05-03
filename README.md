@@ -18,13 +18,13 @@
 	I am a web developper from morocco.	
 	<br/>
 <picture>
-<source srcset="https://github-readme-stats.vercel.app/api?username=hbcode1&show_icons=true&theme=dark"
+<source srcset="https://github-readme-stats.vercel.app/api?username=hbcode1&show_icons=true&hide_title=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
-<source srcset="https://github-readme-stats.vercel.app/api?username=hbcode1&show_icons=true"
+<source srcset="https://github-readme-stats.vercel.app/api?username=hbcode1&show_icons=true&hide_title=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=hbcode1&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=hbcode1&show_icons=true&hide_title=true" />
 </picture>
 	<br/>
 	<ul align = "left">
