@@ -1,4 +1,4 @@
-# Houcine Baha
+# Hi There 👋!, I'm Houcine
 <div id = "header" align = "center">
 	<div id = "badges">
 		<a href = "https://www.linkedin.com/in/elhoucine-bh">
@@ -8,14 +8,20 @@
 			<img src = "https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=white&style=for-the-badge"/>
 		</a>
 	</div>
-	<img src = "https://komarev.com/ghpvc/?username=hbcode1&style=flat-square"/>
-	<h1> Hi there 👋
-	</h1>
 </div>
 
 ---
 
+
+<div>
+
+<img src = "https://komarev.com/ghpvc/?username=hbcode1"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=hbcode1&theme=dark&show_icons=true&count_private=true&hide_title=true&hide=stars&line_height=28" width = "45%" align="right" alt="stats"/>
+
 ### :man_technologist: About me :
+
+<div id = "left" align = "left">
 I am a web developper from morocco.
 
 <!-- - 🔭 I’m currently working on ... 
@@ -24,6 +30,8 @@ I am a web developper from morocco.
 - 🌱 I’m currently a software enginner student at ALX program.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-@elhoucine-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elhoucine-bh) [![twitter Badge](https://img.shields.io/badge/-@hocinebaha20-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/hocinbaha20)
+</div>
+</div>
 
 
 ---
@@ -78,19 +86,18 @@ I am a web developper from morocco.
 
 ---
 
-### :bar_chart: Statistics :
+<details>
+	<summary>
+	<h3>:bar_chart: Statistics</h3>
+	</summary>
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=hbcode1&exclude_days=Sun&card_width=540&hide_border=falsw&theme=dark"  align = "left" width = "45%" height = "210px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbcode1&layout=compact&langs_count=8&theme=dark"  align = "right" width = "45%" height = "210px"/>
+</details>
 
-#### :fire: Github Streak
+#### 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hbcode1&exclude_days=Sun&card_width=540&hide_border=falsw)
-<br/>
 
-#### :chart_with_upwards_trend: GitHub Stats:
 
-![Hbcode1's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbcode1&show_icons=true&theme=dark)
-<br/>
+#### 
 
-#### :writing_hand: Top Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbcode1&layout=compact&langs_count=8)
-<br/>
