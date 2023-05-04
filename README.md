@@ -100,10 +100,30 @@
 
 <details>
 	<summary>
-	<h3>:bar_chart: Statistics</h3>
+	<h3> :bar_chart: Statistics</h3>
 	</summary>
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=hbcode1&exclude_days=Sun&card_width=540&hide_border=falsw&theme=dark"  align = "left" height = "210px"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbcode1&layout=compact&langs_count=8&theme=dark"  align = "right" height = "210px"/>
+	<picture>
+		<source srcset="https://github-readme-streak-stats.herokuapp.com?user=hbcode1&exclude_days=Sun&card_width=540&hide_border=falsw&theme=dark"
+		media="(prefers-color-scheme: dark)"
+		/>
+		<source srcset="https://github-readme-streak-stats.herokuapp.com?user=hbcode1&exclude_days=Sun&card_width=540&hide_border=falsw"
+		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+		/>
+		<br/>
+		<br/>
+		<img src="https://github-readme-streak-stats.herokuapp.com?user=hbcode1&exclude_days=Sun&card_width=540&hide_border=falsw" />
+	</picture>
+	<picture>
+		<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hbcode1&layout=compact&langs_count=8&theme=dark"
+		media="(prefers-color-scheme: dark)"
+		/>
+		<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hbcode1&layout=compact&langs_count=8"
+		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+		/>
+		<br/>
+		<br/>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbcode1&layout=compact&langs_count=8" />
+	</picture>
 </details>
 
 #### 
