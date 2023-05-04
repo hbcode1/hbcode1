@@ -52,28 +52,28 @@
 
 #### Languages:
 
-![HTML5](https://img.shields.io/badge/-HTML5-808080?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-808080?style=flat&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-808080?style=flat&logo=javascript)
-![MySQL](https://img.shields.io/badge/-MySQL-808080?style=flat&logo=postgresql)
-![PHP](https://img.shields.io/badge/-PHP-808080?style=flat&logo=php)
-![Python](https://img.shields.io/badge/-Python-808080?style=flat&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/-C-808080?style=flat&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=postgresql)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 <br/>
 
 #### Technologies:
 
-![NodeJS](https://img.shields.io/badge/-NodeJS-808080?style=flat&logo=nodedotjs)
-![jQuery](https://img.shields.io/badge/-jQuery-808080?style=flat&logo=jquery&logoColor=0769AD)
-![React](https://img.shields.io/badge/-React-808080?style=flat&logo=React&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/-Redux-808080?style=flat&logo=redux)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-808080?style=flat&logo=bootstrap)
-![Sass](https://img.shields.io/badge/-Sass-808080?style=flat&logo=sass)
+![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodedotjs)
+![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=0769AD)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
 
 #### Tools:
 
-![Git](https://img.shields.io/badge/-Git-808080?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-808080?style=flat&logo=github&logoColor=181717)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=181717)
 
 #### Graphics:
 
@@ -109,7 +109,7 @@
 		/>
 		<br/>
 		<br/>
-		<img src="https://github-readme-streak-stats.herokuapp.com?user=hbcode1&exclude_days=Sun&card_width=540&hide_border=falsw" align = "left"/>
+		<img src="https://github-readme-streak-stats.herokuapp.com?user=hbcode1&exclude_days=Sun&card_width=540&hide_border=falsw" />
 	</picture>
 	<picture>
 		<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hbcode1&layout=compact&langs_count=8&theme=dark"
@@ -120,7 +120,7 @@
 		/>
 		<br/>
 		<br/>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbcode1&layout=compact&langs_count=8" align = "right"/>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbcode1&layout=compact&langs_count=8" />
 	</picture>
 </details>
 
