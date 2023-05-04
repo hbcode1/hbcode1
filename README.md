@@ -1,4 +1,4 @@
-# Hi There 👋!, I'm Houcine
+# Hi There <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">!, I'm Houcine
 <div align = "center">
 	<div id = "badges">
 		<a href = "https://www.linkedin.com/in/elhoucine-bh">
@@ -85,6 +85,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 </div>
+
 ---
 
 <details>
@@ -115,10 +116,5 @@
 	</picture>
 </details>
 
-#### 
-
-
-
-#### 
 
 
